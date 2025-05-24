@@ -1,10 +1,10 @@
-# 🔍 Longest Common Prefix Finder
+#  Longest Common Prefix Finder
 
 A simple React application to find the longest common prefix among a comma-separated list of strings.
 
 ---
 
-## ✨ Features
+##  Features
 
 * **Intuitive Input:** Easily enter strings separated by commas.
 * **Live Result:** Get the longest common prefix displayed instantly.
@@ -12,7 +12,7 @@ A simple React application to find the longest common prefix among a comma-separ
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1.  **Enter Strings:** In the input field, type the strings you want to compare, separated by commas.
     * **Example:** `flower, flow, flight`
@@ -68,6 +68,3 @@ The `longestCommonPrefix` function works as follows:
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
